@@ -1,0 +1,1 @@
+// Variable name can be 01Pwskills, _FLOAT
